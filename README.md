@@ -1,4 +1,6 @@
-CH5440 Multivariate Data Analysis Files for case study implementation
+CH5440 Multivariate Data Analysis Course
+
+Files for case study implementation performed for the Term paper.
 
 Implementation_Case1.py -> Harmonic Oscillator case
 
